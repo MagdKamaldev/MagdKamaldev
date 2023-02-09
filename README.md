@@ -1,6 +1,12 @@
-Hello, I'm a Flutter Developer
+Hello, I'm Magd a Flutter Developer
 
 I specialize in creating beautiful, fast and scalable mobile applications using Flutter and Firebase. I have experience with various tools and technologies, and I'm always eager to learn more.
+
+
+Technologies
+https://flutter.dev/
+https://firebase.google.com/
+https://www.java.com/en/
 
 
 Skills
