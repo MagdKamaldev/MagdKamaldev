@@ -38,7 +38,7 @@ Feel free to reach out to me if you have any questions or if you're interested i
 
 
 #### Email: 
-magddevF2gmail.com
+magddevf@gmail.com
 
 #### LinkedIn: 
 https://www.linkedin.com/in/magd-zaky-878193254/
