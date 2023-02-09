@@ -12,9 +12,13 @@ https://www.java.com/en/
 ### Skills
 
 Proficient in Flutter and Dart programming language
+
 Experience with Firebase for back-end and real-time database
+
 Familiar with RESTful APIs and integrating them with Flutter
+
 Experience in creating custom UI and animations
+
 Knowledge of Git and version control
 
 
