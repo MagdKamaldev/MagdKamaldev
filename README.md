@@ -17,32 +17,55 @@ Experience in creating custom UI and animations
 Knowledge of Git and version control
 
 
+
+
 ### Projects
 
-#### Cost App : 
 
-<div align="center">
-    <a href="https://github.com/MagdKamaldev/cost_app">
-        <img height="100" src="https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png" alt="GitHub" title="GitHub" />
-    </a>
-    <a href="https://play.google.com/store/apps/details?id=com.zakymagd.appcost">
-        <img height="100" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Google Play" title="Google Play" />
-    </a>
-</div>
+#### Cost App : 
 
 
 An App to Keep track of the factory costs Using Absorbtion Costing Method.
 
-#### M Community: https://github.com/MagdKamaldev/social_app 
+<div align="center">
+    <a href="https://github.com/MagdKamaldev/cost_app">
+        <img height="100" style="margin-right: 100px;" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub" />
+    </a>
+    <a href="https://play.google.com/store/apps/details?id=com.zakymagd.appcost">
+        <img height="100" style="margin-left: 100px;" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Google Play" title="Google Play" />
+    </a>
+</div>
 
-https://play.google.com/store/apps/details?id=com.magd.mcommunity
+
+
+
+
+
+
+#### M Community:
 
 A Social App For My close Community
 
-#### Shop App: https://github.com/MagdKamaldev/shop_app
+
+<div align="center">
+    <a href="https://github.com/MagdKamaldev/social_app">
+        <img height="100" style="margin-right: 100px;" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub" />
+    </a>
+    <a href="https://play.google.com/store/apps/details?id=com.magd.mcommunity">
+        <img height="100" style="margin-left: 100px;" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Google Play" title="Google Play" />
+    </a>
+</div>
+
+
+#### Shop App: 
 
 E-commerce app with many buying features  
 
+<div align="center">
+    <a href="https://github.com/MagdKamaldev/shop_app">
+        <img height="100" style="margin-right: 100px;" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub" />
+    </a>
+</div>
 
 ### Technologies
 
