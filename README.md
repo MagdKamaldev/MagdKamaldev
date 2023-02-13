@@ -23,10 +23,10 @@ Knowledge of Git and version control
 
 <div align="center">
     <a href="https://github.com/MagdKamaldev/cost_app">
-        <img height="100" src="https://user-images.githubusercontent.com/25181517/139501659-942dfedf-dbf3-42a8-bd5b-9f775b30375e.png" alt="GitHub" title="GitHub" />
+        <img height="100" src="https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png" alt="GitHub" title="GitHub" />
     </a>
     <a href="https://play.google.com/store/apps/details?id=com.zakymagd.appcost">
-        <img height="100" src="https://user-images.githubusercontent.com/25181517/139501650-ec1cb72f-5f5c-4245-890b-7ee4a4f81da7.png" alt="Google Play" title="Google Play" />
+        <img height="100" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Google Play" title="Google Play" />
     </a>
 </div>
 
