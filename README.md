@@ -6,15 +6,17 @@
 
 ### Skills
 
-Proficient in Flutter and Dart programming language
+Strong experience in developing mobile applications using Flutter
 
-Experience with Firebase for back-end and real-time database
+Proficient in Dart programming language
 
-Familiar with RESTful APIs and integrating them with Flutter
+Familiarity with state management libraries like Provider, Bloc
 
-Experience in creating custom UI and animations
+Experience with RESTful APIs, Firebase, and third-party libraries integration
 
-Knowledge of Git and version control
+Good understanding of Material Design and Flutter widget ecosystem
+
+Knowledge of code versioning tools such as Git
 
 
 
