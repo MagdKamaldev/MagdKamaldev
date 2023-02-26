@@ -21,6 +21,7 @@ Knowledge of code versioning tools such as Git
 
 
 
+
 ### Projects
 
 
@@ -94,4 +95,4 @@ Feel free to reach out to me if you have any questions or if you're interested i
 magddevf@gmail.com
 
 #### LinkedIn: 
-https://www.linkedin.com/in/magd-zaky-878193254/
+https://www.linkedin.com/in/magd-kamal-878193254/
