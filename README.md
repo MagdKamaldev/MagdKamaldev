@@ -75,7 +75,7 @@ E-commerce app with many buying features
 
 <div align="center">
 	<a href="https://flutter.dev/"><img height="100" src="https://user-images.githubusercontent.com/25181517/186150365-da1eccce-6201-487c-8649-45e9e99435fd.png" alt="Flutter" title="Flutter" /></a>
-	<a href="https://www.java.com/en/"><img height="100" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java" title="java" /></a>
+	<a href="https://www.java.com/en/"><img height="100" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Fjava-logo-png-transparent.png&f=1&nofb=1&ipt=cc89cca7c91bce05515f0018741d2dfb484d22ebf5823a00a18ab6085834985b&ipo=images" alt="java" title="java" /></a>
 	<a href="https://dart.dev/"><img height="100" src="https://user-images.githubusercontent.com/25181517/186150304-1568ffdf-4c62-4bdc-9cf1-8d8efcea7c5b.png" alt="Dart" title="Dart" /></a>
 	<a href="https://firebase.google.com/"><img height="100" src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" alt="Firebase" title="Firebase" /></a>
 	<a href="https://code.visualstudio.com/"><img height="100" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code" /></a>
