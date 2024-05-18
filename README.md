@@ -1,99 +1,38 @@
-# Hello, I'm Magd a Flutter Developer
+<h1 align="center">Hi 👋, I'm Magd</h1>
+<h3 align="center">A passionate Mobile App Developer from Egypt</h3>
 
-## I specialize in creating beautiful, fast and scalable mobile applications using Flutter and Firebase. I have experience with various tools and technologies, and I'm always eager to learn more.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=magdkamaldev&label=Profile%20views&color=0e75b6&style=flat" alt="magdkamaldev" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=magdkamaldev" alt="magdkamaldev" /></a> </p>
 
+- 🔭 I’m currently working on [fixer](https://github.com/fixerEgypt/fixer-app)
 
-### Skills
+- 🌱 I’m currently learning **Java**
 
-Strong experience in developing mobile applications using Flutter
+- 👨‍💻 All of my projects are available at [https://drive.google.com/drive/folders/1eqxn26F0UHXYY95dZ7uBvaM3qa_b6LQM?usp=drive_link](https://drive.google.com/drive/folders/1eqxn26F0UHXYY95dZ7uBvaM3qa_b6LQM?usp=drive_link)
 
-Proficient in Dart programming language
+- 📝 I regularly write articles on [https://www.linkedin.com/in/magd-kamal-878193254/](https://www.linkedin.com/in/magd-kamal-878193254/)
 
-Familiarity with state management libraries like Provider, Bloc
+- 💬 Ask me about **Flutter**
 
-Experience with RESTful APIs, Firebase, and third-party libraries integration
+- 📫 How to reach me **magddevf@gmaiL.com**
 
-Good understanding of Material Design and Flutter widget ecosystem
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1eqxn26F0UHXYY95dZ7uBvaM3qa_b6LQM?usp=drive_link](https://drive.google.com/drive/folders/1eqxn26F0UHXYY95dZ7uBvaM3qa_b6LQM?usp=drive_link)
 
-Knowledge of code versioning tools such as Git
+- ⚡ Fun fact **I play electric Guitar**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/magd kamal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="magd kamal" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/zakymagd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="zakymagd" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=magdkamaldev&show_icons=true&locale=en&layout=compact" alt="magdkamaldev" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=magdkamaldev&show_icons=true&locale=en" alt="magdkamaldev" /></p>
 
-### Projects
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=magdkamaldev&" alt="magdkamaldev" /></p>
 
-
-#### Cost App : 
-
-
-An App to Keep track of the factory costs Using Absorbtion Costing Method.
-
-<div align="center">
-    <a href="https://github.com/MagdKamaldev/cost_app">
-        <img height="100" style="margin-right: 100px;" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub" />
-    </a>
-    <a href="https://play.google.com/store/apps/details?id=com.zakymagd.appcost">
-        <img height="100" style="margin-left: 100px;" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Google Play" title="Google Play" />
-    </a>
-</div>
-
-
-
-
-
-
-
-#### M Community:
-
-A Social App For My close Community
-
-
-<div align="center">
-    <a href="https://github.com/MagdKamaldev/social_app">
-        <img height="100" style="margin-right: 100px;" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub" />
-    </a>
-    <a href="https://play.google.com/store/apps/details?id=com.magd.mcommunity">
-        <img height="100" style="margin-left: 100px;" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Google Play" title="Google Play" />
-    </a>
-</div>
-
-
-#### Shop App: 
-
-E-commerce app with many buying features  
-
-<div align="center">
-    <a href="https://github.com/MagdKamaldev/shop_app">
-        <img height="100" style="margin-right: 100px;" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub" />
-    </a>
-</div>
-
-### Technologies
-
-
-<div align="center">
-	<a href="https://flutter.dev/"><img height="100" src="https://user-images.githubusercontent.com/25181517/186150365-da1eccce-6201-487c-8649-45e9e99435fd.png" alt="Flutter" title="Flutter" /></a>
-	<a href="https://www.java.com/en/"><img height="100" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Fjava-logo-png-transparent.png&f=1&nofb=1&ipt=cc89cca7c91bce05515f0018741d2dfb484d22ebf5823a00a18ab6085834985b&ipo=images" alt="java" title="java" /></a>
-	<a href="https://dart.dev/"><img height="100" src="https://user-images.githubusercontent.com/25181517/186150304-1568ffdf-4c62-4bdc-9cf1-8d8efcea7c5b.png" alt="Dart" title="Dart" /></a>
-	<a href="https://firebase.google.com/"><img height="100" src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" alt="Firebase" title="Firebase" /></a>
-	<a href="https://code.visualstudio.com/"><img height="100" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code" /></a>
-	<a href="https://developer.android.com/studio"><img height="100" src="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png" alt="Android Studio" title="Android Studio" /></a>
-	<a href="https://git-scm.com/"><img height="100" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git" /></a>
-	<a href="https://github.com/"><img height="100" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub" /></a>
-	<a href="https://www.android.com/"><img height="100" src="https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png" alt="Android" title="Android" /></a>
-</div>
-
-
-
-### Contact
-
-Feel free to reach out to me if you have any questions or if you're interested in working together. I'd love to hear from you!
-
-
-#### Email: 
-magddevf@gmail.com
-
-#### LinkedIn: 
-https://www.linkedin.com/in/magd-kamal-878193254/
