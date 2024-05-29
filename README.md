@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/magd-kamal-878193254/](https://www.linkedin.com/in/magd-kamal-878193254/)
+- 📝 I regularly write articles on [LinkecIn](https://www.linkedin.com/in/magd-kamal-878193254/)
 
 - 📫 How to reach me **magddevf@gmaiL.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1eqxn26F0UHXYY95dZ7uBvaM3qa_b6LQM?usp=drive_link](https://drive.google.com/drive/folders/1eqxn26F0UHXYY95dZ7uBvaM3qa_b6LQM?usp=drive_link)
+- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1DKigHpSL_qQ5CGCmeMXOtnA0sLulZhtE/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
