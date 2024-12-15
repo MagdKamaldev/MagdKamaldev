@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **magddevf@gmaiL.com**
 
-- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1DKigHpSL_qQ5CGCmeMXOtnA0sLulZhtE/view?usp=drive_link)
+- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1NOUV3qnEZYWNpcFD7Ou2RIgux7PCvOXR/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
