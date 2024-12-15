@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 📝 I regularly write articles on [LinkecIn](https://www.linkedin.com/in/magd-kamal-878193254/)
+- 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/magd-kamal-878193254/)
 
 - 📫 How to reach me **magddevf@gmaiL.com**
 
